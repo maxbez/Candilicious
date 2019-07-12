@@ -1,0 +1,164 @@
+@media screen and (min-width: 769px) and (max-width: 1016px) {
+.learn-more__text {
+    max-width: 108px;
+    white-space: nowrap;
+    margin-left: 23px;
+    margin-top: -16px;
+}
+.learn-more__link {
+    margin-left: 11px;
+}
+.about-container__blocks {
+    padding: 0px 15px;
+}
+.about-container__block {
+    height: auto;
+}
+
+.menu {
+    width: 96%;
+} 
+.footer p {
+    font-size: 20px;
+}   
+}
+
+@media screen and (min-width: 1044px){
+	.learn-more {
+    margin-right: 29px;
+}
+}
+@media screen and (min-width: 769px) and (max-width: 930px) {
+.about-container__block {
+    height: auto;
+    width: 200px;
+}
+.footer-menu {
+    padding: 0px 10px;
+}
+}
+@media screen and (min-width: 769px) and (max-width: 900px) {
+.ul li {
+    padding: 0px 0px; 
+    margin-right: 7px;
+}
+}
+@media screen and (max-width: 1044px){
+.main-box {
+    width: auto;
+    margin-right: 25px;
+}
+}
+@media screen and (max-width: 1018px){
+.all-flags {
+	display: none;
+}
+}
+@media screen and (max-width: 768px){
+.about-container__blocks {
+	grid-template-columns: auto;
+	grid-row-gap: 35px;
+}	
+.icon-container {
+	padding-left: 10px;
+    width: 100%;
+}
+#touch-menu {
+	display: block;
+}
+.ul {
+	display: none;
+}
+.menu a img{
+	padding-left: 10px;
+}
+.main-box {
+    width: auto;
+    margin-right: 25px;
+}
+.learn-more {
+    width: auto
+}
+.about {
+    height: auto;
+}
+.footer p {
+    font-size: 16px;
+}
+.footer {
+    height: auto;
+	padding: 5px 0px;
+}
+footer {
+	height: auto;
+}
+.footer-menu{
+	white-space: nowrap;
+	display: block;
+}
+.footer-p {
+	padding-top: 5px;
+    text-align: center;
+}
+.footer-ul li {
+    padding: 0;
+    margin-right: 0px;
+}
+.footer-ul {
+	padding-bottom: 5px;
+    padding-top: 5px;
+    justify-content: space-around;
+}
+.learn-more__link {
+    margin-left: 11px;
+}
+.learn-more__text {
+    max-width: 108px;
+    white-space: nowrap;
+    margin-left: 23px;
+    margin-top: -16px;
+}
+.about-container__block:last-child {
+	margin-bottom: 48px;
+}
+}
+
+@media screen and (max-width: 567px){
+.box {
+    width: 330px;
+    height: auto;
+}
+.button {
+    float: none;
+    text-align: center;
+	padding-bottom: 10px;
+	padding-left: 22px;
+}
+.btn {
+    padding: 7px 10px;
+    margin-top: 12px;
+}
+
+}
+
+@media screen and (max-width: 460px){
+.menu a img{
+	padding-left: 10px;
+	width: 100px;
+}
+.box {
+    width: 200px;
+}
+/*.learn-more{
+    left: 53.88%;
+    bottom: 82.3%;
+}*/
+h1 {
+    font-size: 32px;
+}
+.box p {
+    font-size: 16px;
+}
+}
+
+
